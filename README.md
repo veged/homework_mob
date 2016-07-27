@@ -21,7 +21,7 @@ phonegap
 поставил через npm, работал через командную строку.
 
 
-создание приложение 
+создание приложение (первые разы --template blank не указывал и по умолчанию применялся шаблон hello world)
 
 ```sh
 phonegap create --name "homework-mob" --id "homework.mob" --template blank homework-mob
@@ -45,4 +45,10 @@ phonegap build ios
 - https://github.com/semenovem/homework_mob/blob/master/screenshot/2.PNG  (показали меню)
 - https://github.com/semenovem/homework_mob/blob/master/screenshot/3.PNG  (двигаем меню пальцем)
 
+Из плагинов использовал:
+vibration - для вибрации 
+device-motion - перемещение девайса
+device-orintation - положение девайса в пространстве
+"использовал" - получил данные / эффект 
 
+идей их применения много, но применение в телепрограмме им не нашлось, а вибрация при нажатии на экран - оказалась не очень хорошей идеей - слишком длинный минимальный "вибр" - ощущение, что пришла смс - и так от кадого касания экрана
