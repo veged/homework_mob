@@ -40,3 +40,9 @@ phonegap build ios
 
 Решило проблему создание с пустым шаблоном
 
+Скриншоты
+- https://github.com/semenovem/homework_mob/blob/master/screenshot/1.PNG  (начало)
+- https://github.com/semenovem/homework_mob/blob/master/screenshot/2.PNG  (показали меню)
+- https://github.com/semenovem/homework_mob/blob/master/screenshot/3.PNG  (двигаем меню пальцем)
+
+
