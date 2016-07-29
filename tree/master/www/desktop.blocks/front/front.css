@@ -1,0 +1,8 @@
+.front {
+	background-color : #84ffff;
+	position         : fixed;
+	left             : 0;
+	top              : 20px;
+	right            : 0;
+	bottom           : 0;
+}

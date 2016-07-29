@@ -1,0 +1,39 @@
+.menu {
+	width            : 80%;
+	height           : 100vh;
+	background-color : #64b5f6;
+	position         : fixed;
+	left             : 0;
+	top              : 20px;
+	transition       : all 0.3s;
+	transform        : translate(-110%);
+	box-shadow       : 0 30px 30px #000000;
+}
+
+.menu_show {
+	transform : translate(0%);
+}
+
+.menu__header {
+	display          : flex;
+	flex-direction   : row-reverse;
+	align-items      : center;
+	justify-content  : space-between;
+	padding          : 2vh 5%;
+	background-color : #84ffff;
+}
+
+.menu__name {
+	color : #000000;
+}
+
+.menu__item {
+	font-size : 2rem;
+	color     : #000000;
+	margin    : 45px;
+}
+
+.menu__delimiter {
+	height           : 2px;
+	background-color : #ffffff;
+}

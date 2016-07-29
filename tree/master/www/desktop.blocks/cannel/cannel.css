@@ -1,0 +1,17 @@
+.cannel {
+	margin      : 20px 10px;
+	display     : flex;
+	align-items : center;
+
+}
+
+.cannel__logo {
+	width        : 40px;
+	max-height   : 40px;
+	margin-right : 20px;
+}
+
+.cannel__name {
+	font-size : 1.5rem;
+
+}

@@ -1,0 +1,17 @@
+.program {
+	border-bottom   : 1px solid #cccccc;
+	margin          : 10px 10px;
+	display         : flex;
+	align-items     : center;
+	justify-content : left;
+	padding-bottom  : 5px;
+}
+
+.program__time {
+	color        : #505050;
+	margin-right : 20px;
+}
+
+.program__name {
+	font-size : large;
+}
